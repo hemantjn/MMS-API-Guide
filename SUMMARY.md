@@ -3,7 +3,7 @@
 ## Overview
 
 * [Introduction](README.md)
-* [What are MMS \(Microservices\)?](what.md)
+* [What's MMS \(Microservices\)?](what.md)
 * [How to develop Microservices?](dev.md)
 * [How to publish Microservices?](publish.md)
 * [How to test Microservices?](test.md)
