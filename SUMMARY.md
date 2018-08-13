@@ -3,15 +3,15 @@
 ## Overview
 
 * [Introduction](README.md)
-* [What’s MMS \(Microservices\)?](what.md)
+* [What are MMS \(Microservices\)?](what.md)
 * [How to develop Microservices?](dev.md)
-* [How to Publish Microservices?](publish.md)
+* [How to publish Microservices?](publish.md)
 * [How to test Microservices?](test.md)
 
 ## MMS API
 
 * [System Diagram](systemdiagram.md)
-* [List of API](listofapi.md)
+* [List of APIs](listofapi.md)
 * [Function List](functionlist.md)
 
   * [mote.mms](mote.mms.md)
