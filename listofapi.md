@@ -2,7 +2,7 @@
 
 ---
 
-| API | Description |
+| Command | Description |
 | :--- | :--- |
 | mote.mms | Add number, echo message, what time |
 | comm.mms | Send mail |
