@@ -79,7 +79,7 @@ Node.js
 
     * _Use a code editor to open \_MoteTest.js_ and modify the _third_ statement of the js file
 
-    * Find & Replace _'127.0.0.1'_ with _'192.168.10.185'_
+    * Find & replace _'127.0.0.1'_ with _'192.168.10.185'_
 
 
 
