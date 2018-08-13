@@ -72,6 +72,8 @@ Node.js
     ```
 
     _MoteTest.js_ is a test program for testing the Motebus connector which will return the test results for _Add\(\), Echo\(\) & Time\(\)_ _functions_
+    
+    ![](/assets/566.jpg)
 
   * _Client Server_ test
 
