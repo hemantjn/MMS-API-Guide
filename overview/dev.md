@@ -49,6 +49,7 @@ Node.js
     node index.js  //runs index.js
     ```
 * **Step D**
+
   * _Local Host_ test  
     _cd C:\nodejs\project\HelloWorld\test\_
 
@@ -59,6 +60,8 @@ Node.js
     _MoteTest.js_ is a test program for testing the Motebus connector which will return the test results for _Add\(\), Echo\(\) & Time\(\)_ _functions_
 
     ![](../.gitbook/assets/566.jpg)
+
+  \_\_
 
   * _Client Server_ test
     * _Use a code editor to open \_MoteTest.js_ and modify the _third_ statement of the js file
