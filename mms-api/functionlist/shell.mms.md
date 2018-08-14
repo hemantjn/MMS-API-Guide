@@ -1,3 +1,7 @@
+---
+description: Bash shell emulation
+---
+
 # shell.mms
 
 |  | Description |

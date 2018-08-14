@@ -1,3 +1,7 @@
+---
+description: MQTT telemetry data publish
+---
+
 # mqtt.mms
 
 |  | Description |

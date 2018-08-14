@@ -1,3 +1,7 @@
+---
+description: Motebus integration
+---
+
 # mote.mms
 
 |  | Description |

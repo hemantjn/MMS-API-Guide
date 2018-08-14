@@ -1,3 +1,7 @@
+---
+description: HID access
+---
+
 # hid.mms
 
 |  | Description |
