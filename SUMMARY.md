@@ -14,8 +14,8 @@
 
 * [System Diagram](mms-api/systemdiagram.md)
 * [List of APIs](mms-api/listofapi.md)
-* [Function List](mms-api/functionlist.md)
-  * [mote.mms](mms-api/mote.mms.md)
+* [Function List](mms-api/command/functionlist.md)
+  * [mote.mms](mms-api/command/mote.mms.md)
   * [comm.mms](mms-api/comm.mms.md)
   * [mqtt.mms](mms-api/mqtt.mms.md)
   * [tts.mms](mms-api/tts.mms.md)
