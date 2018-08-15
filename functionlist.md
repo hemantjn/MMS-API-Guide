@@ -1,8 +1,12 @@
+---
+description: MMS microservices functions
+---
+
 ## Function List
 
 ---
 
-| API | Function |
+| Command | Function |
 | :--- | :--- |
 | mote.mms | Add\(\), Echo\(\), Time\(\) |
 | comm.mms | mail\(\) |
