@@ -22,6 +22,7 @@ _Node.js_
     node -v  // shows the version of node
     ```
 
+
 * **Step B**
 
   * Open _&lt;Cmd&gt;_ and specify the path to the Node.js summary
@@ -41,6 +42,7 @@ _Node.js_
     npm install motebus --save //install MoteBus
     npm install express --save //install express
     ```
+
 
 * **Step C**
 
@@ -62,6 +64,7 @@ _Node.js_
     ```js
     node index.js  //runs index.js
     ```
+
 
 * **Step D**
 
