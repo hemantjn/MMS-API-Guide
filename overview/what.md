@@ -1,5 +1,5 @@
 ---
-description: Microservices
+description: Microservices brief
 ---
 
 # What's MMS \(Microservices\)?
