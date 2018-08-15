@@ -1,5 +1,5 @@
 ---
-description: 'Project name & line # access'
+description: Fetch the project name & release
 ---
 
 # michael.mms

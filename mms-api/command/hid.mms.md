@@ -1,5 +1,5 @@
 ---
-description: HID access
+description: Render a Human Interface Device as an 'EI' one
 ---
 
 # hid.mms

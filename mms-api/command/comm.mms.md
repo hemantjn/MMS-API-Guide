@@ -1,5 +1,5 @@
 ---
-description: Send email
+description: Send mail
 ---
 
 # comm.mms

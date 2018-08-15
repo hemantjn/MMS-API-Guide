@@ -1,5 +1,5 @@
 ---
-description: Play out text - tts
+description: Play out text
 ---
 
 # tts.mms

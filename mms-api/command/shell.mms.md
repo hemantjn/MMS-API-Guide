@@ -1,5 +1,5 @@
 ---
-description: Bash shell emulation
+description: Bash emulation
 ---
 
 # shell.mms

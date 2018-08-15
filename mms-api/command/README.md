@@ -1,5 +1,5 @@
 ---
-description: MMS microservices functions
+description: Microservices functions
 ---
 
 # Function List

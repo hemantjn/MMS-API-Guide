@@ -1,5 +1,5 @@
 ---
-description: Search for keywords across DDNs & member target devices
+description: Search for keyword(s) across DDNs and target devices
 ---
 
 # story.mms

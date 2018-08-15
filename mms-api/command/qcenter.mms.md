@@ -1,5 +1,5 @@
 ---
-description: DN management & control
+description: Monitoring and Managing a DN
 ---
 
 # qCenter.mms

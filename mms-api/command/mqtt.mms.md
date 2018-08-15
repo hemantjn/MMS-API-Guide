@@ -1,5 +1,5 @@
 ---
-description: MQTT telemetry data publish
+description: Publish MQTT telemetry data
 ---
 
 # mqtt.mms
