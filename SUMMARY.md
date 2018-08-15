@@ -4,7 +4,7 @@
 
 ## Overview
 
-* [MMS Microservices](overview/readme.md)
+* [MMS Microservices](overview/overview.md)
 * [What's MMS \(Microservices\)?](overview/what.md)
 * [How to develop Microservices?](overview/dev.md)
 * [How to publish Microservices?](overview/publish.md)
@@ -14,7 +14,7 @@
 
 * [System Diagram](mms-api/systemdiagram.md)
 * [List of APIs](mms-api/listofapi.md)
-* [Function List](mms-api/command/readme.md)
+* [Function List](mms-api/command/README.md)
   * [mote.mms](mms-api/command/mote.mms.md)
   * [comm.mms](mms-api/command/comm.mms.md)
   * [mqtt.mms](mms-api/command/mqtt.mms.md)

@@ -1,7 +1,3 @@
----
-description: Testing MMS microservices
----
-
 # How to test Microservices?
 
 * Users can do their own coding

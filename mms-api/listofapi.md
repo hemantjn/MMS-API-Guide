@@ -1,7 +1,3 @@
----
-description: MMS microservices APIs
----
-
 # List of APIs
 
 | Command | Description |

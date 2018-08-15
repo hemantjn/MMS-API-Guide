@@ -22,7 +22,7 @@ gcp@hello.ypcloud.com
 |  | {"cmd":"off","name":"instance\_test\_01"} | {"OpType":"stop","Status":"PENDING","InsertTime":"2018-01-31T00:08:11.629-08:00"} |
 | **vm\(Status\)** | {"cmd":"status", "name":"STRING", "os":"STRING"} | {"name":"STRING", "zone":"STRING", "status":"STRING"} |
 |  | {"cmd":"status", "name":"instance-1xyzabc"} | {"name":"instance-1xyzabc", "zone":"asia-east1-a", "status":"TERMINATED"} |
-| **vm\(create\)** | {"cmd":"create", "name":"STRING", "os":"STRING"}    | {"VmName":"STRING", "OpType":"STRING", "Status":"STRING", "InsertTime":"STRING"} |
+| **vm\(create\)** | {"cmd":"create", "name":"STRING", "os":"STRING"} | {"VmName":"STRING", "OpType":"STRING", "Status":"STRING", "InsertTime":"STRING"} |
 |  | {"cmd":"create", "name":"instance-1xyzabc"} | {"VmName":"STRING","OpType":"insert","Status":"RUNNING","InsertTime":"2018-01-31T00:08:11.629-08:00"} |
 | **vm\(delete\)** | {"cmd":"delete", "name":"STRING"} | {"VmName":"STRING","OpType":"STRING","Status":"STRING","InsertTime":"STRING"} |
 |  | {"cmd":"delete", "name":"instance-1xyzabc"} | {"VmName":"instance-1xyzabc","OpType":"delete","Status":"PENDING","InsertTime":"2018-01-31T00:08:11.629-08:00"} |

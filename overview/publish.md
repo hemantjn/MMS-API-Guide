@@ -1,7 +1,3 @@
----
-description: Publishing MMS microservices
----
-
 # How to publish Microservices?
 
 1. Put the _file_ on the server using _SSH_
