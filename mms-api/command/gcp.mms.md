@@ -1,5 +1,5 @@
 ---
-description: Compute & storage access
+description: Get & manage the compute & storage resources' state
 ---
 
 # gcp.mms

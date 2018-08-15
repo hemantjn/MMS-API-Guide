@@ -1,5 +1,5 @@
 ---
-description: Smart EI access
+description: Processing Smart I/O RTUs' data
 ---
 
 # rtu.mms
