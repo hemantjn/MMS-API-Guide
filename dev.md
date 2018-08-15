@@ -73,7 +73,7 @@ Node.js
     node MoteTest.js
     ```
     
-    ![](/assets/MMS_test_xcall_result.png)
+    ![](/assets/MMS_test_xCall_result.png)
        
  
   * _Client Server_ test
