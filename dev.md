@@ -81,7 +81,8 @@ Node.js
     * _Use a code editor to open \_MoteTest.js_ and modify the _third_ statement of the js file
 
     * Find & replace _'127.0.0.1'_ with _'192.168.10.185'_
-    
+   
+ 
    _MoteTest.js_ is a test program for testing the Motebus connector which will return the test results for _Add\(\), Echo\(\) & Time\     (\)_ _functions_
 
 
