@@ -1,5 +1,5 @@
 ---
-description: Publishing microservices
+description: Publishing MMS microservices
 ---
 
 # How to publish Microservices?
