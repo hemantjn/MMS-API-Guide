@@ -1,5 +1,5 @@
 ---
-description: Get & manage the compute & storage resources' states
+description: Get & manage the VM (compute & storage) states
 ---
 
 # gcp.mms
