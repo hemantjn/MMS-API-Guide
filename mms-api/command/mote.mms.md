@@ -1,5 +1,5 @@
 ---
-description: Motebus integration
+description: MoteBus integration
 ---
 
 # mote.mms

@@ -1,5 +1,5 @@
 ---
-description: Processing Smart I/O RTUs' data
+description: Processing RTU I/O data
 ---
 
 # rtu.mms
